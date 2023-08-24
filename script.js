@@ -1,4 +1,4 @@
-const API_KEY = "2cdd35d22f481fc6db7eee603110b9ae";
+const API_KEY = "52883561070485dc5f3f77c9697060a7";
 
 const date = document.querySelector(".date");
 const temperature = document.getElementById("temp");
